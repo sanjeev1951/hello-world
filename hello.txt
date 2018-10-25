@@ -4,4 +4,6 @@ Say Hello to the world
 
 I have added this line.
 
-Fixed a bug 1234
+Fixed a bug 1234.
+
+New 1234
