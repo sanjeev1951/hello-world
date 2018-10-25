@@ -4,4 +4,6 @@ Say Hello to the world
 
 I have added this line.
 
-Fixed a bug 5678
+
+Fixed a bug 5678 and 1234
+
