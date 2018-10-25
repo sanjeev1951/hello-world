@@ -4,4 +4,7 @@ Say Hello to the world
 
 Add some changes to the master branch to simulate some commits done on the master
 
-One more line added
+And modified this line. One more line added
+
+
+I have added this line.
